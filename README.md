@@ -31,4 +31,3 @@ System Features
     Clear dummy data action.
     Full of features.
     
-For more projects and source code, visit www.campcodes.com
